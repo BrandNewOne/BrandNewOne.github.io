@@ -1,0 +1,26 @@
+title:              신상정보통
+email:              rmlll@naver.com
+description:        Fun And Study
+author:             BrandNewOne
+baseurl:            "/"
+url:                "https://BrandNewOne.github.io"
+
+# Social Profiles
+# twitter_username:   SBootstrap
+github_username:    BrandNewOne
+# facebook_username:  StartBootstrap
+# instagram_username:  
+# linkedin_username:
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+theme:              jekyll-theme-clean-blog
