@@ -1,4 +1,4 @@
-theme:              jekyll-theme-clean-blog
+remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 title:              신상정보통
 future:             false
 email:              rmlll@naver.com
